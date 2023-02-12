@@ -43,7 +43,7 @@ php artisan serve
 - *violaa* Done
 
 ## Screenshots
-<p align="center"><img src="https://prnt.sc/Xf-FMy1__Uxo" width="600" alt="ss1"></p>
-<p align="center"><img src="https://prnt.sc/RkC8UQHOKS_z" width="600" alt="ss2"></p>
-<p align="center"><img src="https://prnt.sc/K_fA-BOKiir6" width="600" alt="ss3"></p>
-<p align="center"><img src="https://prnt.sc/xWRYXYRve-sw" width="600" alt="ss4"></p>
+<p align="center"><img src="https://ibb.co/XfBgqxR" width="600" alt="ss1"></p>
+<p align="center"><img src="https://ibb.co/YPMS5sG" width="600" alt="ss2"></p>
+<p align="center"><img src="https://ibb.co/PjDndn9" width="600" alt="ss3"></p>
+<p align="center"><img src="https://ibb.co/h9Sf9Mx" width="600" alt="ss4"></p>
