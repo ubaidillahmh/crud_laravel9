@@ -43,7 +43,7 @@ php artisan serve
 - *violaa* Done
 
 ## Screenshots
-<p align="center"><img src="https://ibb.co/XfBgqxR" width="600" alt="ss1"></p>
-<p align="center"><img src="https://ibb.co/YPMS5sG" width="600" alt="ss2"></p>
-<p align="center"><img src="https://ibb.co/PjDndn9" width="600" alt="ss3"></p>
-<p align="center"><img src="https://ibb.co/h9Sf9Mx" width="600" alt="ss4"></p>
+<img width="1093" alt="Screenshot 2023-02-12 at 9 56 48 PM" src="https://user-images.githubusercontent.com/45307428/218319222-6836afad-9348-4e01-87f7-ad46d2f7581e.png">
+<img width="1093" alt="Screenshot 2023-02-12 at 9 57 55 PM" src="https://user-images.githubusercontent.com/45307428/218319239-723f133a-c34c-4f22-b63e-ef1a957802f5.png">
+<img width="1269" alt="Screenshot 2023-02-12 at 9 59 25 PM" src="https://user-images.githubusercontent.com/45307428/218319241-1ce811cb-379b-4d89-895d-c78bb1f127e9.png">
+<img width="1269" alt="Screenshot 2023-02-12 at 9 59 52 PM" src="https://user-images.githubusercontent.com/45307428/218319242-db8e4f18-ee1e-49e5-81e9-69b884d19cb0.png">
